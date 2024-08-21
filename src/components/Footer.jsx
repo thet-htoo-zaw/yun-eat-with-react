@@ -20,7 +20,6 @@ export const Footer = () => {
                         <FaDribbbleSquare size={30}/>
                     </div>
                 </div>
-                
                 <div className='lg:col-span-2 flex justify-between mt-6'>
                     <div>
                         <h6 className='font-medium text-[#9b9b9b]'>Location</h6>
